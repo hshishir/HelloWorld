@@ -4,6 +4,14 @@ ehthumbs.db
 
 # Folder config file
 Desktop.ini
+#Ignore files build by visual studio
+*.user
+*.bak
+*.log
+*.suo
+[Bb]in/
+[Dd]ebug/
+obj/
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
