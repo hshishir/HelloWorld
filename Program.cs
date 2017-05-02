@@ -12,6 +12,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World");
             System.Console.WriteLine("First Name: Hemang");
+            System.Console.WriteLine("Second Name: John");
         }
     }
 }
